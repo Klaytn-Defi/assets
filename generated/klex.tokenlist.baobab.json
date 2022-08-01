@@ -37,6 +37,14 @@
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x3e227BcA6306686e817286Ff91Bdeb634f897c42/logo.png"
     },
     {
+      "address": "0x22Fedd7Ca728e9D6195D003ad380F2a202F19bE9",
+      "chainId": 1001,
+      "name": "USD Tether",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x22Fedd7Ca728e9D6195D003ad380F2a202F19bE9/logo.png"
+    },
+    {
       "address": "0x5d99E4A4EC8F2D931E2D1b9993297DE67F5a2dd6",
       "chainId": 1001,
       "name": "Bitcoin",
