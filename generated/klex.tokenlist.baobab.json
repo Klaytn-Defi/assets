@@ -9,7 +9,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "tokens": [
     {
@@ -26,15 +26,15 @@
       "name": "Ethereum",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x0d5816Eb2F071076B84dD70D1a6a088Cf54469CF/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x2E166055e4B183FB11E2AE32E4ea67a7d41ce294/logo.png"
     },
     {
-      "address": "0x3e227BcA6306686e817286Ff91Bdeb634f897c42",
+      "address": "0x445b07B00fBd81dFbd3dcA6d136739F8b94c7ae5",
       "chainId": 1001,
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x3e227BcA6306686e817286Ff91Bdeb634f897c42/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x445b07B00fBd81dFbd3dcA6d136739F8b94c7ae5/logo.png"
     },
     {
       "address": "0x22Fedd7Ca728e9D6195D003ad380F2a202F19bE9",
@@ -45,20 +45,20 @@
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x22Fedd7Ca728e9D6195D003ad380F2a202F19bE9/logo.png"
     },
     {
-      "address": "0x5d99E4A4EC8F2D931E2D1b9993297DE67F5a2dd6",
+      "address": "0xd0b8D24B5e394cf2e0bc1d5eFB38b8855fB65994",
       "chainId": 1001,
       "name": "Bitcoin",
       "symbol": "BTC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x5d99E4A4EC8F2D931E2D1b9993297DE67F5a2dd6/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0xd0b8D24B5e394cf2e0bc1d5eFB38b8855fB65994/logo.png"
     },
     {
-      "address": "0x17bBeC2F77c70144AaA24Dab4Fe776c694473039",
+      "address": "0x5E209E072AE0Ee431e861473cCedaf5de163FcEb",
       "chainId": 1001,
       "name": "DAI",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x17bBeC2F77c70144AaA24Dab4Fe776c694473039/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x5E209E072AE0Ee431e861473cCedaf5de163FcEb/logo.png"
     },
     {
       "address": "0xA5244Bf7C2708FfF3b54501f5ef4DC81a9551097",
@@ -66,7 +66,7 @@
       "name": "Wrapped Klaytn",
       "symbol": "WKLAY",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x95a0779B2a19c36C18B4D138A7C3FaF90a460E63/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0xA5244Bf7C2708FfF3b54501f5ef4DC81a9551097/logo.png"
     },
     {
       "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
@@ -74,7 +74,7 @@
       "name": "Klaytn",
       "symbol": "KLAY",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x95a0779B2a19c36C18B4D138A7C3FaF90a460E63/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0xA5244Bf7C2708FfF3b54501f5ef4DC81a9551097/logo.png"
     }
   ]
 }
