@@ -8,7 +8,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 2
   },
   "tokens": [
@@ -49,7 +49,7 @@
       "chainId": 1001,
       "name": "Bitcoin",
       "symbol": "BTC",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0xd0b8D24B5e394cf2e0bc1d5eFB38b8855fB65994/logo.png"
     },
     {
