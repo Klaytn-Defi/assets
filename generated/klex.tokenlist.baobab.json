@@ -7,7 +7,7 @@
     "listed"
   ],
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 1,
     "patch": 2
   },
@@ -43,6 +43,38 @@
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x22Fedd7Ca728e9D6195D003ad380F2a202F19bE9/logo.png"
+    },
+    {
+      "address": "0x33247c749a66c7ed331f49ed9f1cd3bde293504a",
+      "chainId": 1001,
+      "name": "Boosted KLAP USD Tether",
+      "symbol": "klap-USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x33247c749a66c7ed331f49ed9f1cd3bde293504a/logo.png"
+    },
+    {
+      "address": "0x9d3e51177617c6d149330ff97bc5fef87d53d882",
+      "chainId": 1001,
+      "name": "Boosted KLAP USDC",
+      "symbol": "klap-USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x9d3e51177617c6d149330ff97bc5fef87d53d882/logo.png"
+    },
+    {
+      "address": "0xb2405bd81551a68911640276208df23d5ffb9c7f",
+      "chainId": 1001,
+      "name": "Boosted KLAP DAI",
+      "symbol": "klap-DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0xb2405bd81551a68911640276208df23d5ffb9c7f/logo.png"
+    },
+    {
+      "address": "0x3421664eca6f2aac232dc41fee080d1e74bb7dce",
+      "chainId": 1001,
+      "name": "Boosted KLEX Stable Pool",
+      "symbol": "klex-STABLES",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x3421664eca6f2aac232dc41fee080d1e74bb7dce/logo.png"
     },
     {
       "address": "0xd0b8D24B5e394cf2e0bc1d5eFB38b8855fB65994",
