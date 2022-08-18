@@ -9,7 +9,7 @@
   "version": {
     "major": 2,
     "minor": 1,
-    "patch": 2
+    "patch": 3
   },
   "tokens": [
     {
@@ -69,12 +69,12 @@
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0xb2405bd81551a68911640276208df23d5ffb9c7f/logo.png"
     },
     {
-      "address": "0x3421664eca6f2aac232dc41fee080d1e74bb7dce",
+      "address": "0x3421664EcA6f2aAC232dC41fEE080d1e74BB7DCE",
       "chainId": 1001,
       "name": "Boosted KLEX Stable Pool",
       "symbol": "klex-STABLES",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x3421664eca6f2aac232dc41fee080d1e74bb7dce/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x3421664EcA6f2aAC232dC41fEE080d1e74BB7DCE/logo.png"
     },
     {
       "address": "0xd0b8D24B5e394cf2e0bc1d5eFB38b8855fB65994",
