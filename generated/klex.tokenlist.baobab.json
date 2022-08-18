@@ -8,7 +8,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 1,
+    "minor": 2,
     "patch": 4
   },
   "tokens": [
@@ -67,6 +67,30 @@
       "symbol": "klap-DAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0xb2405BD81551A68911640276208Df23d5ffB9C7f/logo.png"
+    },
+    {
+      "address": "0x4D91dC51B3aE92F4b6Df9f4E9FCa8c8f407569c8",
+      "chainId": 1001,
+      "name": "Wrapped aDAI",
+      "symbol": "aDAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x4D91dC51B3aE92F4b6Df9f4E9FCa8c8f407569c8/logo.png"
+    },
+    {
+      "address": "0x66Bc36b712Ae6e3af82D3B71f4C1F4c8999F795D",
+      "chainId": 1001,
+      "name": "Wrapped aUSDT",
+      "symbol": "aUSDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x66Bc36b712Ae6e3af82D3B71f4C1F4c8999F795D/logo.png"
+    },
+    {
+      "address": "0x99Ad4047DA697170b86E23aaf211Eda35fE9B556",
+      "chainId": 1001,
+      "name": "Wrapped aUSDC",
+      "symbol": "aUSDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x99Ad4047DA697170b86E23aaf211Eda35fE9B556/logo.png"
     },
     {
       "address": "0x3421664EcA6f2aAC232dC41fEE080d1e74BB7DCE",
