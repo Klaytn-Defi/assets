@@ -8,7 +8,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 2,
+    "minor": 3,
     "patch": 4
   },
   "tokens": [
@@ -45,62 +45,6 @@
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x22Fedd7Ca728e9D6195D003ad380F2a202F19bE9/logo.png"
     },
     {
-      "address": "0x33247C749a66c7ed331f49eD9F1cD3bDE293504A",
-      "chainId": 1001,
-      "name": "Boosted KLAP USD Tether",
-      "symbol": "klap-USDT",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x33247C749a66c7ed331f49eD9F1cD3bDE293504A/logo.png"
-    },
-    {
-      "address": "0x9d3e51177617c6D149330Ff97bC5FEF87d53d882",
-      "chainId": 1001,
-      "name": "Boosted KLAP USDC",
-      "symbol": "klap-USDC",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x9d3e51177617c6D149330Ff97bC5FEF87d53d882/logo.png"
-    },
-    {
-      "address": "0xb2405BD81551A68911640276208Df23d5ffB9C7f",
-      "chainId": 1001,
-      "name": "Boosted KLAP DAI",
-      "symbol": "klap-DAI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0xb2405BD81551A68911640276208Df23d5ffB9C7f/logo.png"
-    },
-    {
-      "address": "0x4D91dC51B3aE92F4b6Df9f4E9FCa8c8f407569c8",
-      "chainId": 1001,
-      "name": "Wrapped aDAI",
-      "symbol": "aDAI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x4D91dC51B3aE92F4b6Df9f4E9FCa8c8f407569c8/logo.png"
-    },
-    {
-      "address": "0x66Bc36b712Ae6e3af82D3B71f4C1F4c8999F795D",
-      "chainId": 1001,
-      "name": "Wrapped aUSDT",
-      "symbol": "aUSDT",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x66Bc36b712Ae6e3af82D3B71f4C1F4c8999F795D/logo.png"
-    },
-    {
-      "address": "0x99Ad4047DA697170b86E23aaf211Eda35fE9B556",
-      "chainId": 1001,
-      "name": "Wrapped aUSDC",
-      "symbol": "aUSDC",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x99Ad4047DA697170b86E23aaf211Eda35fE9B556/logo.png"
-    },
-    {
-      "address": "0x3421664EcA6f2aAC232dC41fEE080d1e74BB7DCE",
-      "chainId": 1001,
-      "name": "Boosted KLEX Stable Pool",
-      "symbol": "klex-STABLES",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x3421664EcA6f2aAC232dC41fEE080d1e74BB7DCE/logo.png"
-    },
-    {
       "address": "0xd0b8D24B5e394cf2e0bc1d5eFB38b8855fB65994",
       "chainId": 1001,
       "name": "Bitcoin",
@@ -131,6 +75,118 @@
       "symbol": "KLAY",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0xA5244Bf7C2708FfF3b54501f5ef4DC81a9551097/logo.png"
+    },
+    {
+      "address": "0x33247C749a66c7ed331f49eD9F1cD3bDE293504A",
+      "chainId": 1001,
+      "name": "Boosted KLAP USD Tether",
+      "symbol": "klap-USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x33247C749a66c7ed331f49eD9F1cD3bDE293504A/logo.png"
+    },
+    {
+      "address": "0xc368f6941ef587016a0aaac46ce4e3cb6397f270",
+      "chainId": 1001,
+      "name": "Boosted KLAP USD Tether",
+      "symbol": "klap-USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x33247C749a66c7ed331f49eD9F1cD3bDE293504A/logo.png"
+    },
+    {
+      "address": "0xd07567ce1b9711fea0f1285de934e8c3b2666d16",
+      "chainId": 1001,
+      "name": "Boosted KLAP USDC",
+      "symbol": "klap-USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x9d3e51177617c6D149330Ff97bC5FEF87d53d882/logo.png"
+    },
+    {
+      "address": "0x9d3e51177617c6D149330Ff97bC5FEF87d53d882",
+      "chainId": 1001,
+      "name": "Boosted KLAP USDC",
+      "symbol": "klap-USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x9d3e51177617c6D149330Ff97bC5FEF87d53d882/logo.png"
+    },
+    {
+      "address": "0xb2405BD81551A68911640276208Df23d5ffB9C7f",
+      "chainId": 1001,
+      "name": "Boosted KLAP DAI",
+      "symbol": "klap-DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0xb2405BD81551A68911640276208Df23d5ffB9C7f/logo.png"
+    },
+    {
+      "address": "0x1d9ad9306e6be785029bcdf8e757366c7a4fd9cd",
+      "chainId": 1001,
+      "name": "Boosted KLAP DAI",
+      "symbol": "klap-DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0xb2405BD81551A68911640276208Df23d5ffB9C7f/logo.png"
+    },
+    {
+      "address": "0x4D91dC51B3aE92F4b6Df9f4E9FCa8c8f407569c8",
+      "chainId": 1001,
+      "name": "Wrapped aDAI",
+      "symbol": "aDAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x4D91dC51B3aE92F4b6Df9f4E9FCa8c8f407569c8/logo.png"
+    },
+    {
+      "address": "0x5B72F75065512B51EBC5c7e896fC8623AAc1688d",
+      "chainId": 1001,
+      "name": "Wrapped aDAI",
+      "symbol": "aDAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x4D91dC51B3aE92F4b6Df9f4E9FCa8c8f407569c8/logo.png"
+    },
+    {
+      "address": "0x66Bc36b712Ae6e3af82D3B71f4C1F4c8999F795D",
+      "chainId": 1001,
+      "name": "Wrapped aUSDT",
+      "symbol": "aUSDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x66Bc36b712Ae6e3af82D3B71f4C1F4c8999F795D/logo.png"
+    },
+    {
+      "address": "0x6c8469adF49Ed16022f154c70c1ecB06bE9A8A11",
+      "chainId": 1001,
+      "name": "Wrapped aUSDT",
+      "symbol": "aUSDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x66Bc36b712Ae6e3af82D3B71f4C1F4c8999F795D/logo.png"
+    },
+    {
+      "address": "0x99Ad4047DA697170b86E23aaf211Eda35fE9B556",
+      "chainId": 1001,
+      "name": "Wrapped aUSDC",
+      "symbol": "aUSDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x99Ad4047DA697170b86E23aaf211Eda35fE9B556/logo.png"
+    },
+    {
+      "address": "0xef0752a74DBAf143C89e89fd4A0dFaA3194B97aC",
+      "chainId": 1001,
+      "name": "Wrapped aUSDC",
+      "symbol": "aUSDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x99Ad4047DA697170b86E23aaf211Eda35fE9B556/logo.png"
+    },
+    {
+      "address": "0x3421664EcA6f2aAC232dC41fEE080d1e74BB7DCE",
+      "chainId": 1001,
+      "name": "Boosted KLEX Stable Pool",
+      "symbol": "klex-STABLES",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x3421664EcA6f2aAC232dC41fEE080d1e74BB7DCE/logo.png"
+    },
+    {
+      "address": "0xbff690c57ca3c7de0f77d80b80d407df84e30a73",
+      "chainId": 1001,
+      "name": "Boosted KLEX Stable Pool",
+      "symbol": "klex-STABLES",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x3421664EcA6f2aAC232dC41fEE080d1e74BB7DCE/logo.png"
     }
   ]
 }
