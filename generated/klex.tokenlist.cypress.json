@@ -7,14 +7,14 @@
     "listed"
   ],
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
     "patch": 0
   },
   "tokens": [
     {
       "address": "0x410DC42488a4e7CA620F266B75F69EE813221393",
-      "chainId": 1001,
+      "chainId": 8217,
       "name": "Klex Finance",
       "symbol": "KLEX",
       "decimals": 18,
@@ -22,7 +22,7 @@
     },
     {
       "address": "0xCD6f29dC9Ca217d0973d3D21bF58eDd3CA871a86",
-      "chainId": 1001,
+      "chainId": 8217,
       "name": "Ethereum",
       "symbol": "ETH",
       "decimals": 18,
@@ -30,7 +30,7 @@
     },
     {
       "address": "0x6270B58BE569a7c0b8f47594F191631Ae5b2C86C",
-      "chainId": 1001,
+      "chainId": 8217,
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
@@ -38,7 +38,7 @@
     },
     {
       "address": "0xd6dAb4CfF47dF175349e6e7eE2BF7c40Bb8C05A3",
-      "chainId": 1001,
+      "chainId": 8217,
       "name": "USD Tether",
       "symbol": "USDT",
       "decimals": 6,
@@ -46,7 +46,7 @@
     },
     {
       "address": "0xDCbacF3f7a069922E677912998c8d57423C37dfA",
-      "chainId": 1001,
+      "chainId": 8217,
       "name": "Bitcoin",
       "symbol": "BTC",
       "decimals": 8,
@@ -54,7 +54,7 @@
     },
     {
       "address": "0x078dB7827a5531359f6CB63f62CFA20183c4F10c",
-      "chainId": 1001,
+      "chainId": 8217,
       "name": "DAI",
       "symbol": "DAI",
       "decimals": 18,
@@ -62,7 +62,7 @@
     },
     {
       "address": "0xe4f05a66ec68b54a58b17c22107b02e0232cc817",
-      "chainId": 1001,
+      "chainId": 8217,
       "name": "Wrapped Klaytn",
       "symbol": "WKLAY",
       "decimals": 18,
@@ -70,7 +70,7 @@
     },
     {
       "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-      "chainId": 1001,
+      "chainId": 8217,
       "name": "Klaytn",
       "symbol": "KLAY",
       "decimals": 18,
