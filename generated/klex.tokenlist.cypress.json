@@ -1,0 +1,80 @@
+{
+  "name": "Klex Finance",
+  "timestamp": "2022-08-01T00:00:00.000Z",
+  "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x6Bdf103d48044dbCce85335Ccb8703A092604d8f/logo.png",
+  "keywords": [
+    "klex-fe",
+    "listed"
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "address": "0x410DC42488a4e7CA620F266B75F69EE813221393",
+      "chainId": 1001,
+      "name": "Klex Finance",
+      "symbol": "KLEX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x6Bdf103d48044dbCce85335Ccb8703A092604d8f/logo.png"
+    },
+    {
+      "address": "0xCD6f29dC9Ca217d0973d3D21bF58eDd3CA871a86",
+      "chainId": 1001,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x2E166055e4B183FB11E2AE32E4ea67a7d41ce294/logo.png"
+    },
+    {
+      "address": "0x6270B58BE569a7c0b8f47594F191631Ae5b2C86C",
+      "chainId": 1001,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x445b07B00fBd81dFbd3dcA6d136739F8b94c7ae5/logo.png"
+    },
+    {
+      "address": "0xd6dAb4CfF47dF175349e6e7eE2BF7c40Bb8C05A3",
+      "chainId": 1001,
+      "name": "USD Tether",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x22Fedd7Ca728e9D6195D003ad380F2a202F19bE9/logo.png"
+    },
+    {
+      "address": "0xDCbacF3f7a069922E677912998c8d57423C37dfA",
+      "chainId": 1001,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0xd0b8D24B5e394cf2e0bc1d5eFB38b8855fB65994/logo.png"
+    },
+    {
+      "address": "0x078dB7827a5531359f6CB63f62CFA20183c4F10c",
+      "chainId": 1001,
+      "name": "DAI",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x5E209E072AE0Ee431e861473cCedaf5de163FcEb/logo.png"
+    },
+    {
+      "address": "0xe4f05a66ec68b54a58b17c22107b02e0232cc817",
+      "chainId": 1001,
+      "name": "Wrapped Klaytn",
+      "symbol": "WKLAY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0xA5244Bf7C2708FfF3b54501f5ef4DC81a9551097/logo.png"
+    },
+    {
+      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "chainId": 1001,
+      "name": "Klaytn",
+      "symbol": "KLAY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0xA5244Bf7C2708FfF3b54501f5ef4DC81a9551097/logo.png"
+    }
+  ]
+}
