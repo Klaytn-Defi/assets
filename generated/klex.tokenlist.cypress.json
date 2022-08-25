@@ -179,6 +179,54 @@
       "symbol": "KLAY",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0xA5244Bf7C2708FfF3b54501f5ef4DC81a9551097/logo.png"
+    },
+    {
+      "address": "0x6ae4b6fe9df167598d92dffa70fc4172a73a3f2e",
+      "chainId": 8217,
+      "name": "Klap Portal wBTC",
+      "symbol": "klap-portalWBTC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x16d0e1fbd024c600ca0380a4c5d57ee7a2ecbf9c/logo.svg"
+    },
+    {
+      "address": "0x6ae4b6fe9df167598d92dffa70fc4172a73a3f2e",
+      "chainId": 8217,
+      "name": "Klap Portal wETH",
+      "symbol": "klap-portalWETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x34d21b1e550d73cee41151c77f3c73359527a396/logo.svg"
+    },
+    {
+      "address": "0x792a6116271cb338479cf27ea4d3e36b745e222e",
+      "chainId": 8217,
+      "name": "Klap Portal wETH",
+      "symbol": "klap-portalWETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x34d21b1e550d73cee41151c77f3c73359527a396/logo.svg"
+    },
+    {
+      "address": "0xc41b7e5b0fb1d9340d3162687bc5498c3dfe7d01",
+      "chainId": 8217,
+      "name": "Klap Portal wAVAX",
+      "symbol": "klap-portalWAVAX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x45830b92443a8f750247da2A76C85c70d0f1EBF3/logo.png"
+    },
+    {
+      "address": "0xdb4b203ddb5656cc66f57ec7db24a2147f49bdf7",
+      "chainId": 8217,
+      "name": "Klap Portal wKLAY",
+      "symbol": "klap-portalWKLAY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0xA5244Bf7C2708FfF3b54501f5ef4DC81a9551097/logo.png"
+    },
+    {
+      "address": "0xf2156724d2a8d3079b9cae57a5606f5808dc8aca",
+      "chainId": 8217,
+      "name": "Klap Portal wBNB",
+      "symbol": "klap-portalWBNB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0xaC9C1E4787139aF4c751B1C0fadfb513C44Ed833/logo.png"
     }
   ]
 }
