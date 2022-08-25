@@ -9,7 +9,7 @@
   "version": {
     "major": 3,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "tokens": [
     {
@@ -24,7 +24,7 @@
       "address": "0xCD6f29dC9Ca217d0973d3D21bF58eDd3CA871a86",
       "chainId": 8217,
       "name": "Ethereum",
-      "symbol": "sETH",
+      "symbol": "synETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0xCD6f29dC9Ca217d0973d3D21bF58eDd3CA871a86/logo.png"
     },
@@ -32,7 +32,7 @@
       "address": "0x6270B58BE569a7c0b8f47594F191631Ae5b2C86C",
       "chainId": 8217,
       "name": "USD Coin",
-      "symbol": "sUSDC",
+      "symbol": "synUSDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x6270B58BE569a7c0b8f47594F191631Ae5b2C86C/logo.png"
     },
@@ -40,7 +40,7 @@
       "address": "0xd6dAb4CfF47dF175349e6e7eE2BF7c40Bb8C05A3",
       "chainId": 8217,
       "name": "USD Tether",
-      "symbol": "sUSDT",
+      "symbol": "synUSDT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0xd6dAb4CfF47dF175349e6e7eE2BF7c40Bb8C05A3/logo.png"
     },
@@ -48,7 +48,7 @@
       "address": "0xDCbacF3f7a069922E677912998c8d57423C37dfA",
       "chainId": 8217,
       "name": "Bitcoin",
-      "symbol": "sBTC",
+      "symbol": "synBTC",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0xDCbacF3f7a069922E677912998c8d57423C37dfA/logo.png"
     },
@@ -56,7 +56,7 @@
       "address": "0x078dB7827a5531359f6CB63f62CFA20183c4F10c",
       "chainId": 8217,
       "name": "DAI",
-      "symbol": "sDAI",
+      "symbol": "synDAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x078dB7827a5531359f6CB63f62CFA20183c4F10c/logo.png"
     },
@@ -64,7 +64,7 @@
       "address": "0x98A8345bB9D3DDa9D808Ca1c9142a28F6b0430E1",
       "chainId": 8217,
       "name": "Ethereum",
-      "symbol": "wETH",
+      "symbol": "portalETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x98A8345bB9D3DDa9D808Ca1c9142a28F6b0430E1/logo.png"
     },
@@ -72,7 +72,7 @@
       "address": "0x608792Deb376CCE1c9FA4D0E6B7b44f507CfFa6A",
       "chainId": 8217,
       "name": "USD Coin",
-      "symbol": "wUSDC",
+      "symbol": "portalUSDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x608792Deb376CCE1c9FA4D0E6B7b44f507CfFa6A/logo.png"
     },
@@ -88,7 +88,7 @@
       "address": "0x981846be8d2d697f4dfef6689a161a25ffbab8f9",
       "chainId": 8217,
       "name": "Bitcoin",
-      "symbol": "wBTC",
+      "symbol": "portalBTC",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x981846be8d2d697f4dfef6689a161a25ffbab8f9/logo.png"
     },
@@ -96,7 +96,7 @@
       "address": "0xCB2C7998696Ef7a582dFD0aAFadCd008D03E791A",
       "chainId": 8217,
       "name": "DAI",
-      "symbol": "wDAI",
+      "symbol": "portalDAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0xCB2C7998696Ef7a582dFD0aAFadCd008D03E791A/logo.png"
     },
@@ -104,7 +104,7 @@
       "address": "0xE2765F3721dab5f080Cf14ACe661529e1ab9adE7",
       "chainId": 8217,
       "name": "Binance USD",
-      "symbol": "wBUSD",
+      "symbol": "portalBUSD",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0xE2765F3721dab5f080Cf14ACe661529e1ab9adE7/logo.png"
     },
@@ -112,7 +112,7 @@
       "address": "0x45830b92443a8f750247da2A76C85c70d0f1EBF3",
       "chainId": 8217,
       "name": "Wrapped AVAX",
-      "symbol": "wAVAX",
+      "symbol": "portalAVAX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x45830b92443a8f750247da2A76C85c70d0f1EBF3/logo.png"
     },
@@ -120,7 +120,7 @@
       "address": "0xaC9C1E4787139aF4c751B1C0fadfb513C44Ed833",
       "chainId": 8217,
       "name": "Wrapped BNB",
-      "symbol": "wBNB",
+      "symbol": "portalBNB",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0xaC9C1E4787139aF4c751B1C0fadfb513C44Ed833/logo.png"
     },
