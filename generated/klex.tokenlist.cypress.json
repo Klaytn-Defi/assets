@@ -227,6 +227,38 @@
       "symbol": "klap-portalWBNB",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0xaC9C1E4787139aF4c751B1C0fadfb513C44Ed833/logo.png"
+    },
+    {
+      "address": "0xea376e226e3b353c42a49388008fb7985f9cd784",
+      "chainId": 8217,
+      "name": "Klap Portal USDT",
+      "symbol": "klap-portalUSDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x5C13E303a62Fc5DEdf5B52D66873f2E59fEdADC2/logo.png"
+    },
+    {
+      "address": "0x99bc066e3f4f5905e982f69300067ca9e2235ba5",
+      "chainId": 8217,
+      "name": "Klap USDT",
+      "symbol": "klap-USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x5C13E303a62Fc5DEdf5B52D66873f2E59fEdADC2/logo.png"
+    },
+    {
+      "address": "0xdf72ea60e89bc014786ba64a478518d098e54e06",
+      "chainId": 8217,
+      "name": "Klap USDC",
+      "symbol": "klap-USDC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x608792Deb376CCE1c9FA4D0E6B7b44f507CfFa6A/logo.png"
+    },
+    {
+      "address": "0xb1b7974de15a62702641cbd8d1ddfcb2b7e80ab1",
+      "chainId": 8217,
+      "name": "Klap oUSDT",
+      "symbol": "klap-oUSDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x608792Deb376CCE1c9FA4D0E6B7b44f507CfFa6A/logo.png"
     }
   ]
 }
