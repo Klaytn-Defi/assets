@@ -7,7 +7,7 @@
     "listed"
   ],
   "version": {
-    "major": 2,
+    "major": 3,
     "minor": 0,
     "patch": 0
   },
@@ -24,41 +24,105 @@
       "address": "0xCD6f29dC9Ca217d0973d3D21bF58eDd3CA871a86",
       "chainId": 8217,
       "name": "Ethereum",
-      "symbol": "ETH",
+      "symbol": "sETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x2E166055e4B183FB11E2AE32E4ea67a7d41ce294/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0xCD6f29dC9Ca217d0973d3D21bF58eDd3CA871a86/logo.png"
     },
     {
       "address": "0x6270B58BE569a7c0b8f47594F191631Ae5b2C86C",
       "chainId": 8217,
       "name": "USD Coin",
-      "symbol": "USDC",
+      "symbol": "sUSDC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x445b07B00fBd81dFbd3dcA6d136739F8b94c7ae5/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x6270B58BE569a7c0b8f47594F191631Ae5b2C86C/logo.png"
     },
     {
       "address": "0xd6dAb4CfF47dF175349e6e7eE2BF7c40Bb8C05A3",
       "chainId": 8217,
       "name": "USD Tether",
-      "symbol": "USDT",
+      "symbol": "sUSDT",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x22Fedd7Ca728e9D6195D003ad380F2a202F19bE9/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0xd6dAb4CfF47dF175349e6e7eE2BF7c40Bb8C05A3/logo.png"
     },
     {
       "address": "0xDCbacF3f7a069922E677912998c8d57423C37dfA",
       "chainId": 8217,
       "name": "Bitcoin",
-      "symbol": "BTC",
+      "symbol": "sBTC",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0xd0b8D24B5e394cf2e0bc1d5eFB38b8855fB65994/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0xDCbacF3f7a069922E677912998c8d57423C37dfA/logo.png"
     },
     {
       "address": "0x078dB7827a5531359f6CB63f62CFA20183c4F10c",
       "chainId": 8217,
       "name": "DAI",
-      "symbol": "DAI",
+      "symbol": "sDAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x5E209E072AE0Ee431e861473cCedaf5de163FcEb/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x078dB7827a5531359f6CB63f62CFA20183c4F10c/logo.png"
+    },
+    {
+      "address": "0x98A8345bB9D3DDa9D808Ca1c9142a28F6b0430E1",
+      "chainId": 8217,
+      "name": "Ethereum",
+      "symbol": "wETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x98A8345bB9D3DDa9D808Ca1c9142a28F6b0430E1/logo.png"
+    },
+    {
+      "address": "0x608792Deb376CCE1c9FA4D0E6B7b44f507CfFa6A",
+      "chainId": 8217,
+      "name": "USD Coin",
+      "symbol": "wUSDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x608792Deb376CCE1c9FA4D0E6B7b44f507CfFa6A/logo.png"
+    },
+    {
+      "address": "0x5C13E303a62Fc5DEdf5B52D66873f2E59fEdADC2",
+      "chainId": 8217,
+      "name": "USD Tether",
+      "symbol": "wUSDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x5C13E303a62Fc5DEdf5B52D66873f2E59fEdADC2/logo.png"
+    },
+    {
+      "address": "0x981846be8d2d697f4dfef6689a161a25ffbab8f9",
+      "chainId": 8217,
+      "name": "Bitcoin",
+      "symbol": "wBTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x981846be8d2d697f4dfef6689a161a25ffbab8f9/logo.png"
+    },
+    {
+      "address": "0xCB2C7998696Ef7a582dFD0aAFadCd008D03E791A",
+      "chainId": 8217,
+      "name": "DAI",
+      "symbol": "wDAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0xCB2C7998696Ef7a582dFD0aAFadCd008D03E791A/logo.png"
+    },
+    {
+      "address": "0xE2765F3721dab5f080Cf14ACe661529e1ab9adE7",
+      "chainId": 8217,
+      "name": "Binance USD",
+      "symbol": "wBUSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0xE2765F3721dab5f080Cf14ACe661529e1ab9adE7/logo.png"
+    },
+    {
+      "address": "0x45830b92443a8f750247da2A76C85c70d0f1EBF3",
+      "chainId": 8217,
+      "name": "Wrapped AVAX",
+      "symbol": "wAVAX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x45830b92443a8f750247da2A76C85c70d0f1EBF3/logo.png"
+    },
+    {
+      "address": "0xaC9C1E4787139aF4c751B1C0fadfb513C44Ed833",
+      "chainId": 8217,
+      "name": "Wrapped BNB",
+      "symbol": "wBNB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0xaC9C1E4787139aF4c751B1C0fadfb513C44Ed833/logo.png"
     },
     {
       "address": "0xe4f05a66ec68b54a58b17c22107b02e0232cc817",
