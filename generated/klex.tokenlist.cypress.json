@@ -255,10 +255,26 @@
     {
       "address": "0xb1b7974de15a62702641cbd8d1ddfcb2b7e80ab1",
       "chainId": 8217,
-      "name": "Klap oUSDT",
+      "name": "Klap Portal oUSDT",
       "symbol": "klap-oUSDT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x5C13E303a62Fc5DEdf5B52D66873f2E59fEdADC2/logo.png"
+    },
+    {
+      "address": "0x374920fb32775446c0e8910b7d389750ac1df6ec",
+      "chainId": 8217,
+      "name": "Klap Portal DAI",
+      "symbol": "klap-DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
+    },
+    {
+      "address": "0x31cc56ffebc1bc128a6be03278b4b73773182e8a",
+      "chainId": 8217,
+      "name": "Klap Synapse DAI",
+      "symbol": "klap-synDAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
     },
     {
       "address": "0xe8a051c2a28EB5Fc74a7eE9FE34677eBBB2d6e21",
