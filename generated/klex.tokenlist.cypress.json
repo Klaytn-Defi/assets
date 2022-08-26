@@ -77,7 +77,7 @@
       "address": "0x5C13E303a62Fc5DEdf5B52D66873f2E59fEdADC2",
       "chainId": 8217,
       "name": "USD Tether",
-      "symbol": "wUSDT",
+      "symbol": "portalUSDT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x5C13E303a62Fc5DEdf5B52D66873f2E59fEdADC2/logo.png"
     },
