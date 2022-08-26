@@ -2,10 +2,7 @@
   "name": "Klex Finance",
   "timestamp": "2022-08-01T00:00:00.000Z",
   "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x6Bdf103d48044dbCce85335Ccb8703A092604d8f/logo.png",
-  "keywords": [
-    "klex-fe",
-    "listed"
-  ],
+  "keywords": ["klex-fe", "listed"],
   "version": {
     "major": 3,
     "minor": 0,
@@ -231,7 +228,7 @@
     {
       "address": "0xea376e226e3b353c42a49388008fb7985f9cd784",
       "chainId": 8217,
-      "name": "Klap Portal USDT",
+      "name": "Klap Portal USDT Boosted (Wormhole)",
       "symbol": "klap-portalUSDT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x5C13E303a62Fc5DEdf5B52D66873f2E59fEdADC2/logo.png"
@@ -263,7 +260,7 @@
     {
       "address": "0x374920fb32775446c0e8910b7d389750ac1df6ec",
       "chainId": 8217,
-      "name": "Klap Portal DAI",
+      "name": "Klap Portal DAI Boosted",
       "symbol": "klap-DAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x31cc56ffebc1bc128a6be03278b4b73773182e8a/logo.svg"
@@ -315,6 +312,22 @@
       "symbol": "aWAVAX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0xA5244Bf7C2708FfF3b54501f5ef4DC81a9551097/logo.svg"
+    },
+    {
+      "address": "0x2a92c381f7c110962b54e4cc01dc2e6ccec44d9f",
+      "chainId": 8217,
+      "name": "Klap USDC Boosted",
+      "symbol": "klap-portalUSDC-boosted",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x608792Deb376CCE1c9FA4D0E6B7b44f507CfFa6A/logo.png"
+    },
+    {
+      "address": "0x47ce2867e7570f29e253831bb64ea92640459ea9",
+      "chainId": 8217,
+      "name": "Portal Stable Phantom Pool",
+      "symbol": "klap-portalUSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x608792Deb376CCE1c9FA4D0E6B7b44f507CfFa6A/logo.png"
     }
   ]
 }
