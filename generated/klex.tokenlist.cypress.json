@@ -261,12 +261,44 @@
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x5C13E303a62Fc5DEdf5B52D66873f2E59fEdADC2/logo.png"
     },
     {
-      "address": "0x31cc56ffebc1bc128a6be03278b4b73773182e8a",
+      "address": "0xe8a051c2a28EB5Fc74a7eE9FE34677eBBB2d6e21",
       "chainId": 8217,
-      "name": "Klap DAI Boosted",
-      "symbol": "klap-DAI",
+      "name": "aWETH",
+      "symbol": "aWETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x34d21b1e550d73cee41151c77f3c73359527a396/logo.svg"
+    },
+    {
+      "address": "0x9b6634d62644D5ae70c0B97b4136600E93D4C0db",
+      "chainId": 8217,
+      "name": "aWBTC",
+      "symbol": "aWBTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x16d0e1fbd024c600ca0380a4c5d57ee7a2ecbf9c/logo.svg"
+    },
+    {
+      "address": "0x3B5a1AEa2E09833Ad26a1Dde5598B80f18B9B337",
+      "chainId": 8217,
+      "name": "aWBNB",
+      "symbol": "aWBNB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x16d0e1fbd024c600ca0380a4c5d57ee7a2ecbf9c/logo.svg"
+    },
+    {
+      "address": "0x99CfC2B1B2B375FaB991b77b05E08DD1F15678B4",
+      "chainId": 8217,
+      "name": "aWKLAY",
+      "symbol": "aWKLAY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0xA5244Bf7C2708FfF3b54501f5ef4DC81a9551097/logo.svg"
+    },
+    {
+      "address": "0x8Ff946c00eC1ceEafe6b8dD0cFA34Ab71b601942",
+      "chainId": 8217,
+      "name": "aWAVAX",
+      "symbol": "aWAVAX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0xA5244Bf7C2708FfF3b54501f5ef4DC81a9551097/logo.svg"
     }
   ]
 }
