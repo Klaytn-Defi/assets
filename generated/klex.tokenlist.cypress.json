@@ -259,6 +259,14 @@
       "symbol": "klap-oUSDT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x5C13E303a62Fc5DEdf5B52D66873f2E59fEdADC2/logo.png"
+    },
+    {
+      "address": "0x31cc56ffebc1bc128a6be03278b4b73773182e8a",
+      "chainId": 8217,
+      "name": "Klap DAI Boosted",
+      "symbol": "klap-DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
     }
   ]
 }
