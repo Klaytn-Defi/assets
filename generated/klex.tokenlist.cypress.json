@@ -266,7 +266,7 @@
       "name": "Klap Portal DAI",
       "symbol": "klap-DAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x31cc56ffebc1bc128a6be03278b4b73773182e8a/logo.svg"
     },
     {
       "address": "0x31cc56ffebc1bc128a6be03278b4b73773182e8a",
@@ -274,7 +274,7 @@
       "name": "Klap Synapse DAI",
       "symbol": "klap-synDAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x31cc56ffebc1bc128a6be03278b4b73773182e8a/logo.svg"
     },
     {
       "address": "0xe8a051c2a28EB5Fc74a7eE9FE34677eBBB2d6e21",
