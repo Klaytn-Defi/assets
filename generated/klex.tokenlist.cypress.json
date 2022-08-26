@@ -2,7 +2,10 @@
   "name": "Klex Finance",
   "timestamp": "2022-08-01T00:00:00.000Z",
   "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0x6Bdf103d48044dbCce85335Ccb8703A092604d8f/logo.png",
-  "keywords": ["klex-fe", "listed"],
+  "keywords": [
+    "klex-fe",
+    "listed"
+  ],
   "version": {
     "major": 3,
     "minor": 1,
@@ -166,6 +169,14 @@
       "chainId": 8217,
       "name": "Wrapped Klaytn",
       "symbol": "WKLAY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0xA5244Bf7C2708FfF3b54501f5ef4DC81a9551097/logo.png"
+    },
+    {
+      "address": "0xB1f47254A4B267E0f8233dE1a77B165FA6F29D37",
+      "chainId": 8217,
+      "name": "Klaytn Future",
+      "symbol": "KLAY-FUT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0xA5244Bf7C2708FfF3b54501f5ef4DC81a9551097/logo.png"
     },
