@@ -186,7 +186,7 @@
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x16d0e1fbd024c600ca0380a4c5d57ee7a2ecbf9c/logo.svg"
     },
     {
-      "address": "0x6ae4b6fe9df167598d92dffa70fc4172a73a3f2e",
+      "address": "0x6Ae4b6Fe9Df167598d92dFfa70Fc4172a73a3F2E",
       "chainId": 8217,
       "name": "Klap Portal wETH",
       "symbol": "klap-portalWETH",
@@ -194,7 +194,7 @@
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x34d21b1e550d73cee41151c77f3c73359527a396/logo.svg"
     },
     {
-      "address": "0x792a6116271cb338479cf27ea4d3e36b745e222e",
+      "address": "0x792A6116271cB338479cF27eA4d3E36B745e222E",
       "chainId": 8217,
       "name": "Klap Portal wETH",
       "symbol": "klap-portalWETH",
@@ -202,7 +202,7 @@
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x34d21b1e550d73cee41151c77f3c73359527a396/logo.svg"
     },
     {
-      "address": "0xc41b7e5b0fb1d9340d3162687bc5498c3dfe7d01",
+      "address": "0xc41b7e5b0FB1D9340d3162687BC5498c3dfE7d01",
       "chainId": 8217,
       "name": "Klap Portal wAVAX",
       "symbol": "klap-portalWAVAX",
@@ -210,7 +210,7 @@
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x45830b92443a8f750247da2A76C85c70d0f1EBF3/logo.png"
     },
     {
-      "address": "0xdb4b203ddb5656cc66f57ec7db24a2147f49bdf7",
+      "address": "0xdb4b203DdB5656cC66f57EC7dB24a2147f49bDF7",
       "chainId": 8217,
       "name": "Klap Portal wKLAY",
       "symbol": "klap-portalWKLAY",
@@ -218,7 +218,7 @@
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0xA5244Bf7C2708FfF3b54501f5ef4DC81a9551097/logo.png"
     },
     {
-      "address": "0xf2156724d2a8d3079b9cae57a5606f5808dc8aca",
+      "address": "0xF2156724d2a8d3079b9cae57A5606f5808dC8acA",
       "chainId": 8217,
       "name": "Klap Portal wBNB",
       "symbol": "klap-portalWBNB",
@@ -226,7 +226,7 @@
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0xaC9C1E4787139aF4c751B1C0fadfb513C44Ed833/logo.png"
     },
     {
-      "address": "0xea376e226e3b353c42a49388008fb7985f9cd784",
+      "address": "0xEa376e226e3b353C42A49388008fb7985F9Cd784",
       "chainId": 8217,
       "name": "Klap Portal USDT Boosted (Wormhole)",
       "symbol": "klap-portalUSDT",
@@ -234,7 +234,7 @@
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x5C13E303a62Fc5DEdf5B52D66873f2E59fEdADC2/logo.png"
     },
     {
-      "address": "0x99bc066e3f4f5905e982f69300067ca9e2235ba5",
+      "address": "0x99bC066e3f4f5905E982F69300067ca9E2235Ba5",
       "chainId": 8217,
       "name": "Klap USDT",
       "symbol": "klap-USDT",
@@ -242,7 +242,7 @@
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x5C13E303a62Fc5DEdf5B52D66873f2E59fEdADC2/logo.png"
     },
     {
-      "address": "0xdf72ea60e89bc014786ba64a478518d098e54e06",
+      "address": "0xDF72EA60E89bC014786Ba64a478518d098e54e06",
       "chainId": 8217,
       "name": "Klap USDC",
       "symbol": "klap-USDC",
@@ -250,7 +250,7 @@
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x608792Deb376CCE1c9FA4D0E6B7b44f507CfFa6A/logo.png"
     },
     {
-      "address": "0xb1b7974de15a62702641cbd8d1ddfcb2b7e80ab1",
+      "address": "0xb1b7974DE15a62702641cBd8d1dDFCB2b7e80aB1",
       "chainId": 8217,
       "name": "Klap Portal oUSDT",
       "symbol": "klap-oUSDT",
@@ -258,7 +258,7 @@
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x5C13E303a62Fc5DEdf5B52D66873f2E59fEdADC2/logo.png"
     },
     {
-      "address": "0x374920fb32775446c0e8910b7d389750ac1df6ec",
+      "address": "0x374920Fb32775446C0e8910b7D389750AC1df6ec",
       "chainId": 8217,
       "name": "Klap Portal DAI Boosted",
       "symbol": "klap-DAI",
@@ -266,7 +266,7 @@
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x31cc56ffebc1bc128a6be03278b4b73773182e8a/logo.svg"
     },
     {
-      "address": "0x31cc56ffebc1bc128a6be03278b4b73773182e8a",
+      "address": "0x31Cc56fFebC1Bc128a6be03278B4b73773182E8A",
       "chainId": 8217,
       "name": "Klap Synapse DAI",
       "symbol": "klap-synDAI",
@@ -314,7 +314,7 @@
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0xA5244Bf7C2708FfF3b54501f5ef4DC81a9551097/logo.svg"
     },
     {
-      "address": "0xd7165b559e9ab13df257aa20d918b83131fc6a87",
+      "address": "0xd7165B559e9AB13dF257aa20d918b83131Fc6A87",
       "chainId": 8217,
       "name": "Klap USDC Boosted",
       "symbol": "klap-portalUSDC-boosted",
@@ -322,7 +322,7 @@
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x608792Deb376CCE1c9FA4D0E6B7b44f507CfFa6A/logo.png"
     },
     {
-      "address": "0x47ce2867e7570f29e253831bb64ea92640459ea9",
+      "address": "0x47ce2867e7570F29E253831BB64ea92640459Ea9",
       "chainId": 8217,
       "name": "Portal Stable Phantom Pool",
       "symbol": "klap-portalUSD",
