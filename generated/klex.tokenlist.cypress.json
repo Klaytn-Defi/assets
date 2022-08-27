@@ -9,7 +9,7 @@
   "version": {
     "major": 3,
     "minor": 1,
-    "patch": 2
+    "patch": 3
   },
   "tokens": [
     {
@@ -242,7 +242,7 @@
       "name": "Klap Portal USDT Boosted (Wormhole)",
       "symbol": "klap-portalUSDT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x5C13E303a62Fc5DEdf5B52D66873f2E59fEdADC2/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0xEa376e226e3b353C42A49388008fb7985F9Cd784/logo.png"
     },
     {
       "address": "0x2A92c381F7C110962b54E4Cc01Dc2E6Ccec44d9f",
@@ -250,7 +250,7 @@
       "name": "Klap Portal USDC Boosted (Wormhole)",
       "symbol": "klap-portalUSDC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x5C13E303a62Fc5DEdf5B52D66873f2E59fEdADC2/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x2a92c381f7c110962b54e4cc01dc2e6ccec44d9f/logo.png"
     },
     {
       "address": "0x99bC066e3f4f5905E982F69300067ca9E2235Ba5",
