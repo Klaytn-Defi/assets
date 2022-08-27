@@ -9,7 +9,7 @@
   "version": {
     "major": 3,
     "minor": 1,
-    "patch": 4
+    "patch": 5
   },
   "tokens": [
     {
@@ -290,7 +290,7 @@
       "name": "Klap Synapse DAI",
       "symbol": "klap-synDAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x31Cc56fFebC1Bc128a6be03278B4b73773182E8A/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x31Cc56fFebC1Bc128a6be03278B4b73773182E8A/logo.png"
     },
     {
       "address": "0xe8a051c2a28EB5Fc74a7eE9FE34677eBBB2d6e21",
