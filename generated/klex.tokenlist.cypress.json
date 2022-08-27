@@ -263,7 +263,7 @@
     {
       "address": "0xb1b7974DE15a62702641cBd8d1dDFCB2b7e80aB1",
       "chainId": 8217,
-      "name": "Klap Portal oUSDT",
+      "name": "Klap oUSDT",
       "symbol": "klap-oUSDT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x5C13E303a62Fc5DEdf5B52D66873f2E59fEdADC2/logo.png"
