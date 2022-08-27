@@ -9,7 +9,7 @@
   "version": {
     "major": 3,
     "minor": 1,
-    "patch": 3
+    "patch": 4
   },
   "tokens": [
     {
@@ -255,16 +255,16 @@
     {
       "address": "0x99bC066e3f4f5905E982F69300067ca9E2235Ba5",
       "chainId": 8217,
-      "name": "Klap USDT",
-      "symbol": "klap-USDT",
+      "name": "Klap synUSDT",
+      "symbol": "klap-synUSDT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x5C13E303a62Fc5DEdf5B52D66873f2E59fEdADC2/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x99bC066e3f4f5905E982F69300067ca9E2235Ba5/logo.png"
     },
     {
       "address": "0xDF72EA60E89bC014786Ba64a478518d098e54e06",
       "chainId": 8217,
-      "name": "Klap USDC",
-      "symbol": "klap-USDC",
+      "name": "Klap synUSDC",
+      "symbol": "klap-synUSDC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x608792Deb376CCE1c9FA4D0E6B7b44f507CfFa6A/logo.png"
     },
@@ -282,7 +282,7 @@
       "name": "Klap Portal DAI Boosted",
       "symbol": "klap-portalDAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x374920Fb32775446C0e8910b7D389750AC1df6ec/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x374920Fb32775446C0e8910b7D389750AC1df6ec/logo.png"
     },
     {
       "address": "0x31Cc56fFebC1Bc128a6be03278B4b73773182E8A",
