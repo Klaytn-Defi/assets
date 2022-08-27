@@ -280,9 +280,9 @@
       "address": "0x374920Fb32775446C0e8910b7D389750AC1df6ec",
       "chainId": 8217,
       "name": "Klap Portal DAI Boosted",
-      "symbol": "klap-DAI",
+      "symbol": "klap-portalDAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x31cc56ffebc1bc128a6be03278b4b73773182e8a/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x31Cc56fFebC1Bc128a6be03278B4b73773182E8A/logo.svg"
     },
     {
       "address": "0x31Cc56fFebC1Bc128a6be03278B4b73773182E8A",
@@ -290,7 +290,7 @@
       "name": "Klap Synapse DAI",
       "symbol": "klap-synDAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x31cc56ffebc1bc128a6be03278b4b73773182e8a/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x31Cc56fFebC1Bc128a6be03278B4b73773182E8A/logo.svg"
     },
     {
       "address": "0xe8a051c2a28EB5Fc74a7eE9FE34677eBBB2d6e21",
