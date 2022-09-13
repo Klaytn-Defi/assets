@@ -9,7 +9,7 @@
   "version": {
     "major": 3,
     "minor": 1,
-    "patch": 5
+    "patch": 6
   },
   "tokens": [
     {
@@ -170,7 +170,7 @@
       "name": "Wrapped Klaytn",
       "symbol": "WKLAY",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0xA5244Bf7C2708FfF3b54501f5ef4DC81a9551097/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0xe4f05a66ec68b54a58b17c22107b02e0232cc817/logo.png"
     },
     {
       "address": "0xB1f47254A4B267E0f8233dE1a77B165FA6F29D37",
@@ -178,7 +178,7 @@
       "name": "Klaytn Future",
       "symbol": "KLAY-FUT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0xA5244Bf7C2708FfF3b54501f5ef4DC81a9551097/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0xB1f47254A4B267E0f8233dE1a77B165FA6F29D37/logo.png"
     },
     {
       "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
@@ -186,7 +186,7 @@
       "name": "Klaytn",
       "symbol": "KLAY",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/baobab/0xA5244Bf7C2708FfF3b54501f5ef4DC81a9551097/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0xe4f05a66ec68b54a58b17c22107b02e0232cc817/logo.png"
     },
     {
       "address": "0x6ae4b6fe9df167598d92dffa70fc4172a73a3f2e",
@@ -266,7 +266,7 @@
       "name": "Klap synUSDC",
       "symbol": "klap-synUSDC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x608792Deb376CCE1c9FA4D0E6B7b44f507CfFa6A/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0xDF72EA60E89bC014786Ba64a478518d098e54e06/logo.png"
     },
     {
       "address": "0xb1b7974DE15a62702641cBd8d1dDFCB2b7e80aB1",
