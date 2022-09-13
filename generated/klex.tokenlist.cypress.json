@@ -9,7 +9,7 @@
   "version": {
     "major": 3,
     "minor": 1,
-    "patch": 6
+    "patch": 7
   },
   "tokens": [
     {
@@ -162,7 +162,7 @@
       "name": "USD Tether",
       "symbol": "oUSDT",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167/logo.png"
     },
     {
       "address": "0xe4f05a66ec68b54a58b17c22107b02e0232cc817",
@@ -274,7 +274,7 @@
       "name": "Klap oUSDT",
       "symbol": "klap-oUSDT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167/logo.png"
     },
     {
       "address": "0x374920Fb32775446C0e8910b7D389750AC1df6ec",
