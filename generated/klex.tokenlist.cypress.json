@@ -9,7 +9,7 @@
   "version": {
     "major": 3,
     "minor": 1,
-    "patch": 7
+    "patch": 8
   },
   "tokens": [
     {
@@ -133,14 +133,6 @@
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x16d0e1fbd024c600ca0380a4c5d57ee7a2ecbf9c/logo.svg"
     },
     {
-      "address": "0x34d21b1e550d73cee41151c77f3c73359527a396",
-      "chainId": 8217,
-      "name": "Ethereum",
-      "symbol": "oETH",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x34d21b1e550d73cee41151c77f3c73359527a396/logo.svg"
-    },
-    {
       "address": "0x5c74070fdea071359b86082bd9f9b3deaafbe32b",
       "chainId": 8217,
       "name": "DAI",
@@ -163,6 +155,14 @@
       "symbol": "oUSDT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167/logo.png"
+    },
+    {
+      "address": "0x34d21b1e550D73cee41151c77F3c73359527a396",
+      "chainId": 8217,
+      "name": "ETH",
+      "symbol": "oETH",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x34d21b1e550D73cee41151c77F3c73359527a396/logo.png"
     },
     {
       "address": "0xe4f05a66ec68b54a58b17c22107b02e0232cc817",
@@ -202,7 +202,7 @@
       "name": "Klap Portal wETH",
       "symbol": "klap-portalWETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x34d21b1e550d73cee41151c77f3c73359527a396/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x98A8345bB9D3DDa9D808Ca1c9142a28F6b0430E1/logo.svg"
     },
     {
       "address": "0x792A6116271cB338479cF27eA4d3E36B745e222E",
@@ -210,7 +210,7 @@
       "name": "Klap Portal wETH",
       "symbol": "klap-portalWETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x34d21b1e550d73cee41151c77f3c73359527a396/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/Klaytn-Defi/assets/master/cypress/0x98A8345bB9D3DDa9D808Ca1c9142a28F6b0430E1/logo.svg"
     },
     {
       "address": "0xc41b7e5b0FB1D9340d3162687BC5498c3dfE7d01",
